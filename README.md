@@ -1,5 +1,7 @@
 <h1 align="center">📊 Applicants Management Dashboard</h1>
-
+<p align="center">
+  <img src="file_00000000478c71faa40194116f2bb05d.png" width="90%" alt="Applicants Dashboard"/>
+</p>
 <p align="center">
   <b>Power BI + Excel + SQL  Data Analytics Project</b>
 </p>
