@@ -28,7 +28,7 @@ documents, performance, and administrative insights in a single platform.
 
 <h3>1️⃣ Applicants Dashboard</h3>
 <p align="center">
-  <img src="YOUR-LINK-1" width="90%" alt="Applicants Dashboard"/>
+  <img src="IMG_20260325_200258.jpg" width="90%" alt="Applicants Dashboard"/>
 </p>
 
 <ul>
@@ -42,7 +42,7 @@ documents, performance, and administrative insights in a single platform.
 
 <h3>2️⃣ Documents Status Dashboard</h3>
 <p align="center">
-  <img src="YOUR-LINK-2" width="90%" alt="Documents Dashboard"/>
+  <img src="DOC-20250902-WA0001._page-0002.jpg" width="90%" alt="Documents Dashboard"/>
 </p>
 
 <ul>
@@ -56,7 +56,7 @@ documents, performance, and administrative insights in a single platform.
 
 <h3>3️⃣ Admin Dashboard</h3>
 <p align="center">
-  <img src="YOUR-LINK-3" width="90%" alt="Admin Dashboard"/>
+  <img src="DOC-20250902-WA0001._page-0003.jpg" width="90%" alt="Admin Dashboard"/>
 </p>
 
 <ul>
@@ -66,10 +66,10 @@ documents, performance, and administrative insights in a single platform.
   <li>✔ Application Status (Accepted/Pending)</li>
 </ul>
 <p align="center">
-  <img src="YOUR-LINK-4" width="90%" alt="Applicants Dashboard"/>
+  <img src="DOC-20250902-WA0001._page-0004.jpg" width="90%" alt="Applicants Dashboard"/>
 </p>
 <p align="center">
-  <img src="YOUR-LINK-5" width="90%" alt="Applicants Dashboard"/>
+  <img src="DOC-20250902-WA0001._page-0005.jpg" width="90%" alt="Applicants Dashboard"/>
 </p>
 <hr>
 
